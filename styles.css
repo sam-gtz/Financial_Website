@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+}
+
+.centered-prototype{
+    position: absolute;
+    top: 10px;
+    left: 45%;
+    color: greenyellow;
+}
