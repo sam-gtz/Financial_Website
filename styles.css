@@ -1,9 +1,17 @@
 body {
     background-color: grey;
+    
+}
+
+#graph {
+    border: solid black 1px;
+}
+.output {
+    font-weight: bold;
 }
 
 .centered-prototype{
-    position: absolute;
+    
     top: 10px;
     left: 45%;
     color: greenyellow;
